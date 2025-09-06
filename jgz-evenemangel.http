@@ -1,0 +1,6 @@
+@jgz_evenemangel_HostAddress = http://localhost:5131
+
+GET {{jgz_evenemangel_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
